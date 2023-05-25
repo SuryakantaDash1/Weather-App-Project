@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(300deg, #ced1d6, #bfc0c0);
+    background: linear-gradient(300deg, #5275b1, #bfc0c0);
     font-family: "Poppins", sans-serif;
     display: flex;
     flex-direction: column;
@@ -18,7 +18,7 @@ body {
 input {
     background-color: #fff;
     border: none;
-    border-radius: 25px;
+    border-radius: 26px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     font-family: inherit;
     font-size: 1rem;
